@@ -64,6 +64,7 @@
       [self.mainController pushViewController:[[Page2ViewController alloc] init] animated:YES];
     }
     else if([[url path] isEqualToString:@"/page3"]){
+      NSLog(@"query: %@", [url query]);
       [self.mainController pushViewController:[[Page3ViewController alloc] init] animated:YES];
     }
     return YES;

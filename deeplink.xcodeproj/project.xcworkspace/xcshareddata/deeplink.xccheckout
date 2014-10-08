@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2059C65-17FC-4D8C-ADC7-D370B1B9A175</string>
+	<key>IDESourceControlProjectName</key>
+	<string>deeplink</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>78F54833-178F-442B-A63A-4EE082C1DF8E</key>
+		<string>https://github.com/vipulvpatil/deeplinking-in-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>deeplink.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>78F54833-178F-442B-A63A-4EE082C1DF8E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vipulvpatil/deeplinking-in-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>78F54833-178F-442B-A63A-4EE082C1DF8E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78F54833-178F-442B-A63A-4EE082C1DF8E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>deeplinking-in-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

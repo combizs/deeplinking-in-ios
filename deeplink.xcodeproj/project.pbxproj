@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		45AFDFD819E4C7B0001031EB /* Page3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 921AC14518DAAC6400BD0DF1 /* Page3ViewController.m */; };
 		921AC10318DAAB3100BD0DF1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 921AC10218DAAB3100BD0DF1 /* Foundation.framework */; };
 		921AC10518DAAB3100BD0DF1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 921AC10418DAAB3100BD0DF1 /* CoreGraphics.framework */; };
 		921AC10718DAAB3100BD0DF1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 921AC10618DAAB3100BD0DF1 /* UIKit.framework */; };
@@ -25,7 +26,6 @@
 		921AC13E18DAAC4900BD0DF1 /* Page1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 921AC13C18DAAC4900BD0DF1 /* Page1ViewController.xib */; };
 		921AC14218DAAC5600BD0DF1 /* Page2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 921AC14018DAAC5600BD0DF1 /* Page2ViewController.m */; };
 		921AC14318DAAC5600BD0DF1 /* Page2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 921AC14118DAAC5600BD0DF1 /* Page2ViewController.xib */; };
-		921AC14718DAAC6400BD0DF1 /* Page3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 921AC14518DAAC6400BD0DF1 /* Page3ViewController.m */; };
 		921AC14818DAAC6400BD0DF1 /* Page3ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 921AC14618DAAC6400BD0DF1 /* Page3ViewController.xib */; };
 /* End PBXBuildFile section */
 
@@ -286,7 +286,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				921AC11318DAAB3100BD0DF1 /* DLAppDelegate.m in Sources */,
-				921AC14718DAAC6400BD0DF1 /* Page3ViewController.m in Sources */,
+				45AFDFD819E4C7B0001031EB /* Page3ViewController.m in Sources */,
 				921AC13D18DAAC4900BD0DF1 /* Page1ViewController.m in Sources */,
 				921AC11918DAAB3100BD0DF1 /* DLViewController.m in Sources */,
 				921AC10F18DAAB3100BD0DF1 /* main.m in Sources */,
